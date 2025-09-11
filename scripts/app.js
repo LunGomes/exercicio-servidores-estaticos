@@ -11,11 +11,4 @@ button.addEventListener('click', function () {
             div.innerText = json.body;
             // div.innerText = JSON.stringify(json, null, 0);
         });
-    // console.log("Clicou!");
 });
-
-// Sincrona 
-// function qqrCoisa() {
-//     console.log("X");
-//     console.log("Y");
-// }
